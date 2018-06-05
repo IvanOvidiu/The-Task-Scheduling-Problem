@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1528209149 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	"struct.h"
+
+1528111400 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\functions.h
+	<stdio.h>
+	"struct.h"
+
+1528109470 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"taskgenerator.h"
+	"functions.h"
+	"struct.h"
+
+1528113931 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\taskgenerator.h
+	<stdio.h>
+	"functions.h"
+
+1528111516 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\struct.h
+	<stdio.h>
+
+1528111182 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\taskgenerator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"taskgenerator.h"
+	"struct.h"
+
+1528100279 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\taskgenerator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"taskgenerator.h"
+	"struct.h"
+
+1528057340 c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\taskgenerator.h
+	<stdio.h>
+	"functions.h"
+
+1528104354 c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\functions.h
+	<stdio.h>
+	"struct.h"
+
+1528057020 c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\struct.h
+	<stdio.h>
+
+1528104388 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	"struct.h"
+
+1528104383 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12 - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"taskgenerator.h"
+	"functions.h"
+	"struct.h"
+
+1528209149 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	"struct.h"
+
+1528111400 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\functions.h
+	<stdio.h>
+	"struct.h"
+
+1528111516 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\struct.h
+	<stdio.h>
+
+1528109470 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"taskgenerator.h"
+	"functions.h"
+	"struct.h"
+
+1528113931 c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\taskgenerator.h
+	<stdio.h>
+	"functions.h"
+
+1528111182 source:c:\users\adiov\desktop\a_ovidiu_ivan_cr12\thetaskschedulingproblem\taskgenerator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"taskgenerator.h"
+	"struct.h"
+
